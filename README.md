@@ -1,2 +1,2 @@
-# Deply-ML-with-Flask
+# Deploy-ML-with-Flask
 A simple ml algorithm using Flask Deploy
